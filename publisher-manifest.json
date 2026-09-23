@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "403b31199e3b2fb7d329c981",
+  "owner": "evckbvq",
+  "repo": "page-4857c4b2ac34c0eeea37356e",
+  "title": "MESL",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4857c4b2ac34c0eeea37356e",
+      "a": "MESL",
+      "b": "稳定全球clash加速器",
+      "entity": "MESL",
+      "brand": "MESL",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "1af804671d0458a4e9d69c3f5b75f48852677d22f285cbf6ec9dcc45057bc555",
+      "content": {
+        "primary_entity": "MESL",
+        "keyword1": "MESL",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，完成订阅导入。",
+          "AI_CLIENTS_TITLE": "客户端与适配",
+          "AI_CLOSING_TEXT": "选择合适的套餐，按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始配置 MESL",
+          "AI_DESCRIPTION": "，以设备数量和月流量需求为核心，提供基础版、旗舰版与团队版三档选择，配合客户端订阅配置，适用于日常浏览、流媒体与游戏加速等场景。",
+          "AI_FEATURES_INTRO": "从套餐、设备到订阅周期，规划清晰的配置路径。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。",
+          "AI_FEATURE_TEXT_2": "旗舰版提供 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版增加 VIP 专属高带宽节点和定制路由。",
+          "AI_FEATURE_TEXT_3": "按年付更节省，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，适合长期稳定使用的用户。",
+          "AI_FEATURE_TITLE_1": "按需求选套餐",
+          "AI_FEATURE_TITLE_2": "线路与权益差异",
+          "AI_FEATURE_TITLE_3": "订阅周期建议",
+          "AI_GUIDE_INTRO": "三步完成从选择到配置。",
+          "AI_GUIDE_TITLE": "配置流程",
+          "AI_HERO_INTRO": "MESL 提供多档套餐，依据设备数量与月流量挑选合适方案，再配合常用客户端导入订阅，即可在多个平台上使用。",
+          "AI_HERO_SUBTITLE": "稳定加速，按需选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐按设备与流量划分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 游戏加速",
+          "AI_HIGHLIGHT_3": "按年付更省，长期使用划算",
+          "AI_PLANS_INTRO": "基础版适合个人轻度使用，旗舰版面向多设备与游戏需求，团队版支持 20 台设备与更高带宽。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量预估，在基础版、旗舰版、团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端适配情况，查看套餐中的设备数量和线路权益是否满足需要。",
+          "AI_STEP_TEXT_3": "按照所选客户端的订阅导入说明完成配置，即可开始使用 MESL 加速服务。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "MESL 套餐与配置",
+          "AI_FAQ_ANSWER_1": "按年付基础版150元、旗舰版350元、团队版850元，比按月支付更划算，适合长期稳定使用。",
+          "AI_FAQ_ANSWER_2": "基础版支持3台，旗舰版5台，团队版20台。多人共用或设备较多时优先考虑团队版。",
+          "AI_FAQ_ANSWER_3": "建议先确认设备系统，再根据流量与在线设备数挑选套餐，完成后参考对应客户端文档导入订阅。",
+          "AI_FAQ_ANSWER_4": "旗舰版和团队版提供更高带宽与专属节点，适合对速度要求较高的游戏、直播和跨境办公。",
+          "AI_FAQ_ANSWER_5": "套餐按月或按年计费，年付已包含优惠价格，选择后长期生效，无需每月手动续费。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "按年付和按月付价格差多少？",
+          "AI_FAQ_QUESTION_2": "一个套餐可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "新手应该如何选套餐并完成配置？",
+          "AI_FAQ_QUESTION_4": "旗舰版比基础版多了哪些权益？",
+          "AI_FAQ_QUESTION_5": "套餐计费周期是怎样的？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fairykk.cn",
+    "host": "fairykk.cn"
+  },
+  "file_hashes": {
+    "index.html": "120da04ece831eb1b32f659be8832f0f861e889354a3f28565c279dde6afc4dd",
+    "sitemap.xml": "e937abc52044842887dce324c3a13ef9098a71b35848db77bdd153925b64d8b6",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "173c777e1b4dd2150079952b232727156f46ae9bc65187d0bd2503a67146befa",
+    "robots.txt": "558979d13720962fd23fb933c6306e6be3e94a1504ef35364e1afbf2be89752a",
+    "f9b327f4cec4e3fb58aaff9cd2d81fec.txt": "58ee3e4f53df350e7bf569a0b4410fabf4a49f7b5b2857c2d1f8db2b155c9f3e"
+  },
+  "revision": "606d0fdec5c57b2a7b12c9b7a76b7579926a8746f892348e5155163de6d229f3"
+}
